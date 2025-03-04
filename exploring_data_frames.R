@@ -1,0 +1,10 @@
+gapminder <- read.csv("data/gapminder_data.csv")
+gapminder
+str(gapminder)
+summary(gapminder)
+nrow(gapminder)
+ncol(gapminder)
+colnames(gapminder)
+head(gapminder)
+tail(gapminder)
+dim(gapminder)
